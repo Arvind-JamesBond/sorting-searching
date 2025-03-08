@@ -11,7 +11,7 @@ const Footer: React.FC = () => {
               © {new Date().getFullYear()} AlgoViz. All rights reserved by Arvind.
             </p>
           </div>
-          <div className="flex space-x-6"> */
+          <div className="flex space-x-6">
               
             <a href="https://www.linkedin.com/in/arvind-kumar-379b3a309/" className="text-gray-400 hover:text-purple-500 transition-colors duration-300">
               <Linkedin className="h-5 w-5" />
